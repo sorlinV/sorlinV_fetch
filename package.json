@@ -1,0 +1,19 @@
+{
+  "name": "sorlinv_fetch",
+  "version": "1.0.0",
+  "description": "create my fetch for training versioning and npm",
+  "main": "my-fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorlinV/sorlinV_fetch.git"
+  },
+  "author": "sorlinV <valentin.sorlin@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorlinV/sorlinV_fetch/issues"
+  },
+  "homepage": "https://github.com/sorlinV/sorlinV_fetch#readme"
+}

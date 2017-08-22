@@ -36,3 +36,4 @@ function fetch(url, obj = {}) {
         }
     });
 }
+module.exports = fetch;

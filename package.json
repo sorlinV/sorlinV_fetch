@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sorlinV/sorlinV_fetch/issues"
   },
-  "homepage": "https://github.com/sorlinV/sorlinV_fetch#readme"
+  "homepage": "https://github.com/sorlinV/sorlinV_fetch#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }

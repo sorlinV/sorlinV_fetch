@@ -1,3 +1,5 @@
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+
 function assignarg(src, target) {
     for (let key in src) {
         if (target.hasOwnProperty(key)) {
